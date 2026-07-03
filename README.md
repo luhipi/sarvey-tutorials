@@ -1,7 +1,6 @@
 # SARvey-tutorials
-A collection of Jupyter Notebook tutorials for the SARvey.
 
-This repository contains a collection of Jupyter Notebook tutorials for [Sarvey](https://github.com/luhipi/sarvey), an open-source research software for InSAR time series analysis.
+This repository contains a collection of Jupyter Notebook tutorials for [SARvey](https://github.com/luhipi/sarvey), an open-source research software for InSAR time series analysis.
 
 ### 📘 Tutorials  
 - [SARvey tutorial 01 - General workflow](notebooks/SARvey_tutorial_01/SARvey_tutorial_01.ipynb).
